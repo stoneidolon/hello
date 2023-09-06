@@ -1,3 +1,3 @@
 this is readme.txt
 
-try ff.
+try ff now is OK.
